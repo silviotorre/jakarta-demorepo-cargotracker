@@ -47,6 +47,21 @@
             http://localhost:8080/cargo-tracker/rest/graph-traversal/shortest-path
         </webapp.graphTraversalUrl>
     </properties>
+    
+<!-- Peppe -->
+<contributors>
+    <contributor>
+      <name>Peppe</name>
+      <email>peppe@gmail.com</email>
+      <url>http://Peppe.com</url>
+      <organization>Peppe inc.</organization>
+      <organizationUrl>http://Peppe.com</organizationUrl>
+      <roles>
+        <role>Peppe rulez</role>
+      </roles>
+    </contributor>
+</contributors>
+
 
     <dependencyManagement>
         <dependencies>
@@ -226,4 +241,5 @@
             </build>
         </profile>
     </profiles>
+    
 </project>
